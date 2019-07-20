@@ -1,6 +1,6 @@
 {
   "name": "love-you-3000",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
     "love-you-3000": "index.js"
   },
