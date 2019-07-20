@@ -1,0 +1,28 @@
+{
+  "name": "love-you-3000",
+  "version": "1.0.0",
+  "bin": {
+    "love-you-3000": "index.js"
+  },
+  "description": "A command tool to say \"Love you\" in 3000 times.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haixiang6123/love-you-3000.git"
+  },
+  "keywords": [
+    "Love",
+    "Iron man",
+    "Avengers",
+    "End Game"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haixiang6123/love-you-3000/issues"
+  },
+  "homepage": "https://github.com/Haixiang6123/love-you-3000#readme"
+}
